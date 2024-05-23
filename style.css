@@ -1,0 +1,44 @@
+.image-scan {
+    display: flex;
+    flex-direction: column;
+}
+.responsivimage{
+    width: 100%;
+    height: 187px;
+    top: 3px;
+    left: 5px;
+    right: 5px; 
+}
+.bloc {
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid #afd6ab;
+    border-radius: 10px;
+}
+.row{
+    display: flex;
+    justify-content: flex-start; 
+}
+.row .b{
+    margin-right: 13cm;
+    
+}
+#vert {
+    color: #4caf50; 
+    text-align: center;
+    font-size:120%;
+}
+#rouge {
+    color: #f77a7a;
+    text-align: center;
+    font-size: 120%;
+}
+#a{
+    font-size: 110%;
+    font-weight: bold;
+
+}
+.b{
+     font-weight: lighter;
+        
+}
